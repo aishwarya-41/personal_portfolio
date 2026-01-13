@@ -10,7 +10,7 @@ This is my personal portfolio website where I showcase my projects, skills, cert
 - Vite
 - HTML
 - CSS
-- JavaScript
+
 ---------
 
 ## Live Portfolio
